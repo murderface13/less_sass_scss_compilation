@@ -43,3 +43,6 @@ group :development, :test do
   gem 'spring'
 end
 
+
+gem 'less-rails', '~> 2.7.0'
+gem 'therubyracer'

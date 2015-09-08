@@ -1,0 +1,273 @@
+@import url(http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic);
+
+
+body   a { 
+    text-decoration: none !important;
+   } 
+
+
+.navbar {
+    background-color: black;
+    
+}
+
+
+
+
+#bs-example-navbar-collapse-1 a {
+    color: #e0e4e6;
+}
+
+
+#bs-example-navbar-collapse-1 a:hover {
+    color: #4f5253;
+}
+
+.header {
+    margin-top: -20px;
+    background-image: url(home1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+
+.header .row {
+    padding-top: 23px;
+    padding-left:  -20px;
+} 
+.brand {
+    color: #c21126;
+    font-size: 1.7em;
+    font-family: 'Lobster', cursive;
+    
+    
+}
+.brand img {
+    font-size: 1.2em;
+}
+.brand a{
+    text-decoration: none;
+}
+.contacts {
+    font-size: 2em;
+    list-style-type: none;
+    color: #fff;
+    margin-left:-73px;
+    
+}
+
+
+.form_s {
+    background:url(37621672.png);
+    height:31px;
+    width:199px;
+} 
+ .queryField {
+     margin:8px 0px 0px 6px;
+     width:170px;color:#fff;
+     font-size:10px;
+     background:none;
+     border:none;
+     float:left;
+ } 
+ .k_serch {
+     background:url(47609093.png);
+     border:none;
+     margin:9px 3px 0px 0px;
+     width:13px;height:13px;
+     float:right;
+ } 
+ .k_serch:hover {
+     opacity:0.9;
+ }
+
+.glyphicon {
+    margin-top:  -20px;
+    padding-left: 17px;
+    font-size: 3em;
+    color: #1a0d64;
+    
+   
+}
+
+.basket {
+    height: 50px;
+    border: 3px solid #1a0d64;
+    border-radius: 10px 10px 10px 10px;
+    padding-top: 20px;
+   
+}
+.basket p {
+    margin-top:  -45px;
+    padding-left: 87px;
+    color: #1a0d64;
+    
+}
+
+
+
+
+.border {
+    border: 1px solid black;
+    border-radius: 5px; 
+    background-color: rgba(1, 24, 119, 0.32);
+    padding: 20px;
+    font-size: 5em;
+    text-align: center;
+   
+}
+
+.category {
+    margin-top: 150px;
+}
+.category a {
+    text-decoration: none;
+    color: black;
+}
+
+.sales_leader {
+    margin-top: 150px;
+}
+.sales_leader h2 {
+    text-align: center;
+}
+.sales_leader .row {
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+
+.product_leader h5{
+    font-size: 1.5em;
+}
+
+.product_leader p{
+    font-size: 2em;
+    color: black;
+    
+}
+
+.price_card {
+     border: 2px solid #666;
+}
+
+
+
+.dropdown-toggle a{
+    padding: 100px;
+    
+    
+}
+
+#mainnav {
+   /* height: 100px; */
+    
+    background-color: #2a8cd3;
+    text-align: center;
+    
+    
+}
+#mainnav a {
+    color: black;
+    text-align: center;
+}
+.nav-pills {
+   /* padding-left: 344px; */
+    
+}
+
+.brokenPhone {
+    margin-left:  -20px;
+}
+
+.brokenPhone p {
+    margin-top:  -70px;
+    margin-left: 30px;
+    font-size: 4em;
+    color: firebrick;
+}
+.phoneCase p{
+    margin-top:  -70px;
+    margin-left: 150px;
+    font-size: 5em;
+    color: forestgreen;
+    
+}
+
+.fourCase {
+    margin-left: 736px;
+    font-size: 5em;
+    color: darkorange;
+}
+
+.fourCase p {
+    margin-top:  -340px;
+    margin-left: -737px;
+}
+.footer {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.content {
+    margin-top: 50px;
+}
+
+.HTC_phone p{
+    font-size: 2em;
+}
+
+.HTC_phone a {
+    font-size: 1.5em;
+}
+.HTC_tablet p{
+    font-size: 2em;
+}
+.HTC_tablet a{
+    font-size: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.table li{
+    width: 250px;
+}
+
+.categoryHTC a{
+    font-size: 2em;
+    color: black;
+    
+}
+
+.btn-default {
+    width: 184px;
+}
+
+/*.categoryHTC a {
+    position: absolute;
+}
+/*.categoryHTC a:hover {
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid #000000;
+
+}
+*/
+
+
+
+
+.btn-default {
+    width: 233px;
+}

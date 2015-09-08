@@ -1,4 +1,10 @@
 Rails.application.routes.draw do
+
+  resource :samples, only: [] do
+    get :page1
+    get :page2
+    get :page3
+  end
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
