@@ -1,9 +1,20 @@
 @color_red: red;
 
+.cool-padding(@pixels){
+  padding-top: @pixels;
+  padding-right: @pixels;
+  padding-bottom: @pixels;
+  padding-left: @pixels;
+}
+
 .red{
-	background: @color_red;	
+  background: @color_red; 
 }
 
 .left{
-	background: @color_red + 222;
+  background: @color_red + 222;
+}
+
+.right{
+  .cool-padding(10px);
 }
