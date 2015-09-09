@@ -1,0 +1,19 @@
+$color_red: red;
+
+@mixin cool-padding($pixels){
+  padding-top: $pixels;
+  padding-right: $pixels;
+  padding-bottom: $pixels;
+  padding-left: $pixels;
+}
+
+.one{
+  background: $color_red;
+}
+
+.two{
+  background: $color_red + 222;
+}
+
+.three{
+  @include cool-padding(10px);}
